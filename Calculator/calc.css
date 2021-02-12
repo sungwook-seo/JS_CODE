@@ -1,4 +1,4 @@
-/* * {
+* {
     margin: 0;
     padding: 0;
     border: 0;
@@ -53,11 +53,11 @@ button {
    background-color: #dd9999;
 }
 
- */
+
 
 
  /* tempolary css */
- input {
+ /* input {
      text-align: right;
      display: flex;
      width: 291px;
@@ -66,4 +66,4 @@ button {
  button {
     width: 70px;
     height: 70px;
- }
+ } */
